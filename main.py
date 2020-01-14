@@ -1,5 +1,6 @@
 import pickle
 
+#a project that stores and calculates statistics for a golf team
 
 class Score:
     def __init__(self, name, seed, number, date, opponent_score, par, used, course, opponent):
